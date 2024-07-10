@@ -15,6 +15,7 @@ The objective of this project is to develop an advanced driver assistance system
 ### Image Processing
 - **Objective:** Crucial for detecting and identifying objects such as pedestrians, vehicles, and traffic signs in real-time.
 - **Implementation:** Developed Python scripts to process images captured by the camera. The YOLO algorithm was used for object detection due to its speed and accuracy.
+  - **Reference:** https://github.com/RmdanJr/vehicle-distance-estimation
 
 ### Real-Time Implementation
 - **Objective:** Ensure the system operates in real-time to provide immediate feedback and actions.
@@ -32,9 +33,6 @@ The objective of this project is to develop an advanced driver assistance system
 - **Objective:** Facilitate communication between the main control units (MCUs) via the CAN bus.
 - **Implementation:** Configured the CAN bus communication between the MCUs to ensure reliable data transfer and system coordination.
 
-## Diagram Overview
-- **Use Case Diagram:** Visualizes the main functionalities of the system and the interactions between different components.
-- **Sequence Diagram:** Illustrates the flow of information and actions taken based on road conditions.
 
 ## Conclusion
 
