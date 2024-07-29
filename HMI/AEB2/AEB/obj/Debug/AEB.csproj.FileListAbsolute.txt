@@ -1,0 +1,41 @@
+C:\Users\hp\source\repos\AEB\AEB\bin\Debug\AEB.exe.config
+C:\Users\hp\source\repos\AEB\AEB\bin\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB\AEB\bin\Debug\AEB.pdb
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.AC.resources
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.Form1.resources
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.Map.resources
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.Music.resources
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.Properties.Resources.resources
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB\AEB\obj\Debug\AEB.pdb
+C:\Users\hp\source\repos\AEB - Copie\AEB\bin\Debug\AEB.exe.config
+C:\Users\hp\source\repos\AEB - Copie\AEB\bin\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB - Copie\AEB\bin\Debug\AEB.pdb
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.AC.resources
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.Form1.resources
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.Map.resources
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.Music.resources
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.Properties.Resources.resources
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.pdb
+C:\Users\hp\source\repos\AEB - Copie\AEB\obj\Debug\AEB.WarningForm.resources
+C:\Users\hp\source\repos\AEB2\AEB\bin\Debug\AEB.exe.config
+C:\Users\hp\source\repos\AEB2\AEB\bin\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB2\AEB\bin\Debug\AEB.pdb
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.AC.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.Form1.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.Map.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.Music.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.Properties.Resources.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.WarningForm.resources
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.exe
+C:\Users\hp\source\repos\AEB2\AEB\obj\Debug\AEB.pdb

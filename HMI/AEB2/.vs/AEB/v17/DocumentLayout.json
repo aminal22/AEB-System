@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\AEB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|C:\\Users\\hp\\source\\repos\\AEB2\\aeb\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|c:\\users\\hp\\source\\repos\\aeb2\\aeb\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|c:\\users\\hp\\source\\repos\\aeb2\\aeb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|c:\\users\\hp\\source\\repos\\aeb2\\aeb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|C:\\Users\\hp\\source\\repos\\AEB2\\aeb\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|C:\\Users\\hp\\source\\repos\\AEB2\\aeb\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F68E3E5-527A-4266-B595-5442EC8D7CA0}|AEB\\AEB.csproj|solutionrelative:aeb\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Form1.cs",
+              "RelativeDocumentMoniker": "AEB\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Form1.cs",
+              "RelativeToolTip": "AEB\\Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:00:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\AC.cs",
+              "RelativeDocumentMoniker": "AEB\\AC.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\AC.cs [Design]",
+              "RelativeToolTip": "AEB\\AC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:46:53.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Form1.cs",
+              "RelativeDocumentMoniker": "AEB\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Form1.cs [Design]",
+              "RelativeToolTip": "AEB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:58:47.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Map.cs",
+              "RelativeDocumentMoniker": "AEB\\Map.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Map.cs",
+              "RelativeToolTip": "AEB\\Map.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:57:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Map.cs",
+              "RelativeDocumentMoniker": "AEB\\Map.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Map.cs [Design]",
+              "RelativeToolTip": "AEB\\Map.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:56:32.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Music.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Music.cs",
+              "RelativeDocumentMoniker": "AEB\\Music.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AEB2\\AEB\\Music.cs [Design]",
+              "RelativeToolTip": "AEB\\Music.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:49:38.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
